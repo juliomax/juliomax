@@ -9,7 +9,7 @@ Brazil-based · remote · open to founding, staff and lead engineering roles.
 
 ---
 
-### Tilt Technology — Founder & CTO · 2024–present
+### Tilt Technology — Co-Founder & CTO · 2024–present
 
 Distributed computing platform that turns a company's existing, heterogeneous hardware
 (laptops, phones, TVs, servers, cloud VMs — Android, Linux, Windows, macOS) into a single
@@ -20,11 +20,12 @@ compute grid. Run workloads on machines you already own before paying for more c
 - Built a fault-tolerant execution model for devices that can go offline at any moment:
   stateless agents receive only a data slice plus a recipe, and any slice can be picked up by
   another node. Jobs always complete, and no agent ever sees the full dataset.
+- An early proof of concept ran across **300,000 devices** via an embedded SDK; now in production.
 - Freight pricing for a large retailer (30k+ SKUs × every Brazilian ZIP code):
   **27 h → 4 h**, running on the customer's own machines.
 - Moved LLM and speech workloads (transcription, diarization, summarization) from cloud GPUs to
   machines the customer already kept running: **95%+ cost reduction**, as a drop-in replacement.
-- Solo-built the platform through thesis, product and funding; then hired and led an engineering
+- Solo-built the core platform through thesis, product and funding; then hired and led an engineering
   team of up to 10.
 
 ### Enor Securities — Founder & CTO
