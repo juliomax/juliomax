@@ -71,11 +71,14 @@ One of Brazil's early applied AI/ML companies, focused on legal and financial do
 - That pipeline became a product sold to banks and large companies: structured data extraction
   from photographed documents (complex forms, mixed fonts, layouts and quality) captured by
   2,000+ devices.
-- Built a custom audit tool for companies in judicial recovery: it read and interpreted loan
-  contracts, projected debt, and reconciled it against bank statements. On a real case that a
-  legal/accounting team had been auditing for 8 months, it produced the result **in hours** and
-  found **millions of BRL in improper bank charges**. The result was validated by the legal and
-  accounting teams, and the tool was formally accepted.
+
+### Independent consulting — TCP Latam · 2015
+
+- Built a contract-reading and bank-reconciliation system for a judicial recovery case: it
+  interpreted loan contracts, projected debt and reconciled it against bank statements.
+- Re-checked eight months of manual work by the legal and accounting team in about two weeks,
+  matched every finding and uncovered more: **R$4M+ in improper bank charges**, validated by
+  the auditors.
 
 ---
 
