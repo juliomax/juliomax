@@ -23,6 +23,8 @@ compute grid. Run workloads on machines you already own before paying for more c
 - An early proof of concept ran across **300,000 devices** via an embedded SDK; now in production.
 - Freight pricing for a large retailer (30k+ SKUs × every Brazilian ZIP code):
   **27 h → 4 h**, running on the customer's own machines.
+- A major Brazilian retailer cut the daily cloud cost of one workload from **R$300k to R$5k**
+  ([Experience Club, 2026](https://experienceclub.com.br/tilt-usa-computacao-distribuida-para-cortar-ate-30-dos-gastos-das-empresas-com-cloud/)).
 - Moved LLM and speech workloads (transcription, diarization, summarization) from cloud GPUs to
   machines the customer already kept running: **95%+ cost reduction**, as a drop-in replacement.
 - Solo-built the core platform through thesis, product and funding; then hired and led an engineering
